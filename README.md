@@ -19,17 +19,17 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 - Instagram
-    Add/Edit/Delete/View posts
-    Like and comment on the app
+    + Add/Edit/Delete/View posts
+    + Like and comment on the app
 - Find Cat
-    Add notification
-    Add/Edit/Delete/View posts
-    Like and comment on the app
+    + Add notification
+    + Add/Edit/Delete/View posts
+    + Like and comment on the app
 - Food Order App
-    Show Menu
-    Add food to the order
-    Payment online
-
+    + Show Menu
+    + Add food to the order
+    + Payment online
+  
 ## Notes
 
 It took me some time to get familiar with the UI of Xcode.
