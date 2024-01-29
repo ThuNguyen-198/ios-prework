@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-ios-prework-demo.gif
+https://github.com/ThuNguyen-198/ios-prework/blob/main/ios-prework-demo.gif
 
 ## App Brainstorming (Step 4)
 - Instagram
